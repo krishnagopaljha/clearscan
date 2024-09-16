@@ -21,6 +21,7 @@ This project is built in Python and leverages custom utility scripts for each of
 
 ```bash
 git clone https://github.com/krishnagopaljha/clearscan.git
+pip install -r requirments.txt
 cd clearscan
+python clearscan.py
 ```
-
