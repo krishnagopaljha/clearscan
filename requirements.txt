@@ -1,0 +1,6 @@
+pefile
+capstone
+psutil
+yara-python
+frida
+requests
