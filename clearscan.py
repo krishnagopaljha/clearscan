@@ -15,6 +15,13 @@ def logo():
  / /   / / _ \/ __ `/ ___/\__ \/ ___/ __ `/ __ \\
 / /___/ /  __/ /_/ / /   ___/ / /__/ /_/ / / / /
 \____/_/\___/\__,_/_/   /____/\___/\__,_/_/ /_/ 
+
+|--------------------------------------------------------------------|
+| Created By: Krishna Gopal Jha                                      |
+| Checkout my LinkedIn: https://www.linkedin.com/in/krishnagopaljha/ |
+| Lookup at my insta: https://instagram.com/theindianpsych           |
+|--------------------------------------------------------------------|
+
     """
 
 def clear_screen():
